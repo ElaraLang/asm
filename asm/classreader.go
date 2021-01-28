@@ -3,11 +3,11 @@ package asm
 import (
 	"errors"
 
-	"github.com/leaklessgfy/asm/asm/constants"
-	"github.com/leaklessgfy/asm/asm/frame"
-	"github.com/leaklessgfy/asm/asm/opcodes"
-	"github.com/leaklessgfy/asm/asm/symbol"
-	"github.com/leaklessgfy/asm/asm/typereference"
+	"github.com/ElaraLang/asm/asm/constants"
+	"github.com/ElaraLang/asm/asm/frame"
+	"github.com/ElaraLang/asm/asm/opcodes"
+	"github.com/ElaraLang/asm/asm/symbol"
+	"github.com/ElaraLang/asm/asm/typereference"
 )
 
 // ClassReader A parser to make a {@link ClassVisitor} visit a ClassFile structure, as defined in the Java

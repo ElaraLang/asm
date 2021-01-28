@@ -1,6 +1,6 @@
 package opcodes
 
-import "github.com/leaklessgfy/asm/asm/frame"
+import "github.com/ElaraLang/asm/asm/frame"
 
 // ASM API versions.
 const (

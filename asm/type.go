@@ -1,6 +1,6 @@
 package asm
 
-import "github.com/leaklessgfy/asm/asm/typed"
+import "github.com/ElaraLang/asm/asm/typed"
 
 type Type struct {
 	sort        int

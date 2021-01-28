@@ -5,8 +5,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/leaklessgfy/asm/asm"
-	"github.com/leaklessgfy/asm/asm/helper"
+	"github.com/ElaraLang/asm/asm"
+	"github.com/ElaraLang/asm/asm/helper"
 )
 
 func main() {

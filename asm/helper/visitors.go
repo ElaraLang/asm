@@ -1,6 +1,6 @@
 package helper
 
-import "github.com/leaklessgfy/asm/asm"
+import "github.com/ElaraLang/asm/asm"
 
 type ClassVisitor struct {
 	OnVisit       func(version, access int, name, signature, superName string, interfaces []string)

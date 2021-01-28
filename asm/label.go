@@ -2,8 +2,8 @@ package asm
 
 import "errors"
 import "math"
-import "github.com/leaklessgfy/asm/asm/opcodes"
-import "github.com/leaklessgfy/asm/asm/constants"
+import "github.com/ElaraLang/asm/asm/opcodes"
+import "github.com/ElaraLang/asm/asm/constants"
 
 const FLAG_DEBUG_ONLY = 1
 const FLAG_JUMP_TARGET = 2
